@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    base: '/practica-react/'
   ],
+  base: '/practica-react/'
 })
